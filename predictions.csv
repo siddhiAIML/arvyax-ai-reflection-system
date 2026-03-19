@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,support_message
+10001,focused,2.51,0.56,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10002,neutral,3.43,0.28,1,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10003,focused,3.57,0.44,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10004,focused,2.85,0.76,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10005,neutral,3.06,0.37,1,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10006,mixed,3.47,0.42,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10007,restless,3.73,0.45,0,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10008,overwhelmed,2.64,0.39,1,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10009,restless,2.83,0.74,0,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10010,overwhelmed,3.23,0.45,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10011,overwhelmed,2.89,0.57,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10012,restless,3.46,0.25,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10013,mixed,2.44,0.35,1,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10014,focused,3.35,0.73,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10015,calm,3.78,0.4,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10016,neutral,3.88,0.59,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10017,mixed,3.39,0.95,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10018,mixed,2.81,0.89,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10019,focused,2.87,0.39,1,deep_work,now,You're in a focused state. Consider doing deep work now.
+10020,calm,2.72,0.56,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10021,overwhelmed,2.85,0.37,1,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10022,calm,3.45,0.76,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10023,neutral,2.66,0.81,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10024,neutral,3.38,0.42,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10025,calm,3.12,0.25,1,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10026,overwhelmed,2.72,0.69,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10027,mixed,3.7,0.7,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10028,mixed,3.39,0.74,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10029,overwhelmed,2.75,0.51,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10030,calm,2.17,0.34,1,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10031,focused,3.38,0.84,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10032,mixed,3.49,0.32,1,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10033,overwhelmed,2.32,0.85,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10034,neutral,3.19,0.54,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10035,focused,3.35,0.81,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10036,restless,3.44,0.31,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10037,mixed,2.58,0.32,1,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10038,focused,2.99,0.35,1,deep_work,now,You're in a focused state. Consider doing deep work now.
+10039,mixed,2.89,0.79,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10040,mixed,3.73,0.68,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10041,overwhelmed,3.11,0.33,1,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10042,neutral,3.03,0.38,1,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10043,calm,3.9,0.57,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10044,calm,2.41,0.43,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10045,restless,3.29,0.38,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10046,focused,3.13,0.8,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10047,focused,3.71,0.52,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10048,calm,3.29,0.47,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10049,restless,3.21,0.41,0,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10050,restless,2.99,0.32,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10051,calm,2.88,0.46,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10052,calm,3.3,0.52,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10053,calm,3.33,0.7,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10054,overwhelmed,3.16,0.39,1,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10055,mixed,3.89,0.91,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10056,focused,3.1,0.55,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10057,overwhelmed,3.06,0.48,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10058,overwhelmed,3.14,0.64,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10059,mixed,2.9,0.47,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10060,neutral,3.12,0.32,1,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10061,calm,3.7,0.49,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10062,calm,3.42,0.28,1,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10063,restless,3.68,0.33,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10064,neutral,2.27,0.91,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10065,neutral,3.88,0.79,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10066,restless,3.17,0.67,0,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10067,restless,3.38,0.74,0,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10068,overwhelmed,3.19,0.59,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10069,neutral,2.91,0.91,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10070,restless,2.33,0.34,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10071,mixed,2.94,0.57,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10072,neutral,2.67,0.27,1,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10073,restless,3.36,0.31,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10074,mixed,2.69,0.89,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10075,restless,3.06,0.33,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10076,mixed,2.97,0.88,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10077,neutral,3.21,0.9,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10078,restless,3.48,0.34,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10079,restless,3.39,0.31,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10080,calm,3.04,0.37,1,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10081,restless,3.26,0.43,0,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
+10082,neutral,3.28,0.34,1,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10083,neutral,2.75,0.34,1,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10084,overwhelmed,3.16,0.59,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10085,calm,2.03,0.43,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10086,neutral,2.7,0.63,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10087,mixed,3.2,0.85,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10088,neutral,3.29,0.4,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10089,calm,3.16,0.54,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10090,mixed,3.27,0.36,1,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10091,neutral,3.32,0.9,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10092,overwhelmed,2.82,0.52,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10093,mixed,3.33,0.52,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10094,focused,3.52,0.51,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10095,overwhelmed,3.49,0.35,1,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10096,calm,3.23,0.6,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10097,mixed,3.17,0.59,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10098,overwhelmed,3.57,0.56,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10099,mixed,3.13,0.65,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10100,mixed,2.75,0.69,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10101,calm,3.51,0.26,1,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10102,overwhelmed,3.3,0.76,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10103,calm,3.12,0.56,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10104,mixed,2.98,0.62,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10105,mixed,3.32,0.2,1,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10106,neutral,3.15,0.43,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10107,focused,2.4,0.54,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10108,mixed,2.91,0.69,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10109,mixed,3.16,0.28,1,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10110,mixed,2.9,0.25,1,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10111,mixed,3.99,0.85,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10112,mixed,2.92,0.83,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10113,calm,3.15,0.74,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10114,neutral,2.91,0.31,1,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10115,calm,2.68,0.6,0,deep_work,now,You seem calm. This is a great time to focus on meaningful work.
+10116,overwhelmed,2.13,0.77,0,breathing,now,It looks like you're feeling overwhelmed. Take a pause and try grounding yourself.
+10117,neutral,4.32,0.53,0,light_planning,later_today,You seem neutral. A light activity or planning could help.
+10118,focused,3.18,0.41,0,deep_work,now,You're in a focused state. Consider doing deep work now.
+10119,mixed,3.05,0.51,0,journaling,later_today,Your emotions seem mixed. Try journaling to clear your thoughts.
+10120,restless,3.57,0.33,1,grounding,within_15_min,You seem a bit restless. Try a short breathing exercise to slow things down.
