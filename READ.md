@@ -1,3 +1,10 @@
+## Features
+- Emotion detection from journal text
+- Intensity prediction
+- Action recommendation (what + when)
+- Uncertainty detection
+- Supportive AI message
+- 
 # AI Reflection Understanding System
 
 ## Overview
